@@ -1,4 +1,4 @@
-### Hi! My name is Monika and I am looking for a job as a junior web developer👋
+### Hi! My name is Monika
 
 ##
 My first experience with programming was during my PhD when I was building statistical models using the R language for statistical computing to analyse data. I also used graphical packages of R and CorelDraw to present the complex data in audience-friendly ways.
